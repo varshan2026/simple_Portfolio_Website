@@ -20,7 +20,7 @@ Welcome to my portfolio website! Here's a brief overview of what you can expect:
 
 ## Check It Out
 
-You can see my portfolio website by visiting [this link](link).
+You can see my portfolio website by visiting https://varshan2026.github.io/simple_Portfolio_Website/index.html
 
 ## Contributing
 
